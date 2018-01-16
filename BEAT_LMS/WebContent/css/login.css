@@ -1,0 +1,59 @@
+.content {
+	background-color: #fcfddf;
+	width: 960px;
+	height: 450px;
+}
+
+#id {
+	position: relative;
+	top: 110px;
+	left: 370px;
+}
+
+#pw {
+	position: relative;
+	top: 130px;
+	left: 355px;
+}
+
+#radio {
+	position: relative;
+	top: 140px;
+	left: 430px;
+}
+
+#btn {
+	position: relative;
+	top: 160px;
+	left: 450px;
+	
+}
+#btns{
+	 background-color: #2C3E50; 
+	color: white; 
+	border-radius:5px;
+	border-bottom: 3px solid orange;
+	border-top: 2px solid orange;
+	width: 100px;
+	height: 50px;
+	
+}
+#btns:HOVER{
+	color: orange;
+	
+}
+
+
+#logo {
+	position: relative;
+	top: 50px;
+	left: 330px;
+}
+
+#errMsg1 {
+	position: relative;
+	top: 80px;
+	left: 380px;
+	color: hotpink;
+	font-weight: bold;
+}
